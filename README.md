@@ -76,6 +76,6 @@ FROM
 GROUP BY 
     ad_date, media_source, campaign_name, adset_name
 ORDER BY 
-    ad_date, media_source, campaign_name, adset_name;
+    ad_date, media_source, campaign_name, adset_name; ```
 ## Результати
 Отримано уніфіковану таблицю для аналізу рекламних кампаній у Facebook та Google з ключовими метриками: витрати, покази, кліки та value конверсій. Це дозволяє порівнювати ефективність кампаній між платформами у різні дні та за різними наборами оголошень.
