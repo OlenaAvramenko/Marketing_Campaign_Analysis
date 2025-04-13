@@ -184,3 +184,28 @@ SELECT
 Кампанія з найвищим ROMI серед усіх кампаній з витратами більше 500 000 була визначена.
 
 В межах цієї кампанії було знайдено групу оголошень (adset), що має найвищий ROMI.
+
+# Візуалізація в Tableau
+## Marketing Campaign Performance Overview
+Ціль: наочно продемонструвати результати SQL-аналізу ефективності кампаній
+
+Інструмент: Tableau Public
+
+Ключові графіки:
+
+Comparison of Spend and Value Over Time
+
+ROMI by Campaign
+
+Top Campaigns by Total Value
+
+Comparison of ROMI Across Campaigns
+
+🧭 Фільтри: Можна досліджувати дані по кампаніях та платформах (Facebook/Google)
+
+🔗 Дашборд Tableau:
+
+https://public.tableau.com/app/profile/olena.avramenko4187/viz/Visualisation_17445723619140/MarketingCampaignPerformanceOverview?publish=yes
+
+🖼️ Скріншот дашборду:
+![image](https://github.com/user-attachments/assets/0bbf6248-68ed-494f-b090-efdf40977108)
