@@ -208,4 +208,5 @@ Comparison of ROMI Across Campaigns
 https://public.tableau.com/app/profile/olena.avramenko4187/viz/Visualisation_17445723619140/MarketingCampaignPerformanceOverview?publish=yes
 
 🖼️ Скріншот дашборду:
-![image](https://github.com/user-attachments/assets/0bbf6248-68ed-494f-b090-efdf40977108)
+![Dashboard Screenshot](Marketing%20Campaign%20Performance%20Overview.jpg)
+
